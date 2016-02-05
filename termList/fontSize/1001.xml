@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdakit="http://metadataregistry.org/uri/profile/rdakit/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:reg="http://metadataregistry.org/uri/profile/regap/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<!-- Concept: giant print  -->
+	<!-- NOTICE: This is a single-concept fragment -->
+	<!-- Scheme: RDA Font Size -->
+	<!-- Status properties used in this document  -->
+	<skos:Concept rdf:about="http://metadataregistry.org/uri/RegStatus/1001">
+		<skos:prefLabel xml:lang="en">
+			Published
+		</skos:prefLabel>
+	</skos:Concept>
+	<skos:Concept rdf:about="http://rdaregistry.info/termList/fontSize/1001" xml:lang="en">
+		<rdakit:toolkitDefinition xml:lang="en-GB">
+			A font size that is very large, designed to aid British readers who experience difficulty reading large print.
+		</rdakit:toolkitDefinition>
+		<rdakit:toolkitDefinition xml:lang="en-US">
+			A font size that is very large, designed to aid American readers who experience difficulty reading large print.
+		</rdakit:toolkitDefinition>
+		<rdakit:toolkitDefinition xml:lang="en">
+			A font size that is very large, designed to aid readers who experience difficulty reading large print.
+		</rdakit:toolkitDefinition>
+		<rdakit:toolkitDefinition xml:lang="zh">
+			旨在帮助阅读常规或大字印本有困难的读者所采用的非常大的字号。
+		</rdakit:toolkitDefinition>
+		<rdakit:toolkitLabel xml:lang="en">
+			giant print
+		</rdakit:toolkitLabel>
+		<rdakit:toolkitLabel xml:lang="zh">
+			巨大字印刷
+		</rdakit:toolkitLabel>
+		<reg:identifier rdf:resource="http://metadataregistry.org/concepts/859"/>
+		<reg:status rdf:resource="http://metadataregistry.org/uri/RegStatus/1001"/>
+		<skos:altLabel xml:lang="de">
+			Extra-Großdruck
+		</skos:altLabel>
+		<skos:altLabel xml:lang="de">
+			Super-Großdruck
+		</skos:altLabel>
+		<skos:altLabel xml:lang="en">
+			extra large print
+		</skos:altLabel>
+		<skos:altLabel xml:lang="en">
+			super large print
+		</skos:altLabel>
+		<skos:altLabel xml:lang="es">
+			impresión extra grande
+		</skos:altLabel>
+		<skos:altLabel xml:lang="es">
+			impresión super grande
+		</skos:altLabel>
+		<skos:altLabel xml:lang="fr">
+			extra gros caractères
+		</skos:altLabel>
+		<skos:altLabel xml:lang="zh">
+			超大字印刷
+		</skos:altLabel>
+		<skos:definition xml:lang="de">
+			Eine Schriftgröße, die sehr groß ist und dazu konzipiert ist, Leser zu unterstützen, die Schwierigkeiten beim Lesen von regulärem oder Großdruck haben.
+		</skos:definition>
+		<skos:definition xml:lang="en">
+			A font size that is very large, designed to aid readers who experience difficulty reading large print.
+		</skos:definition>
+		<skos:definition xml:lang="en">
+			A test concept that has British, American, and Ordinary English.
+		</skos:definition>
+		<skos:definition xml:lang="es">
+			Tipo de letra de gran tamaño definida para ayudar a los lectores que tienen dificultad para leer con tipos de letra normal o mayor.
+		</skos:definition>
+		<skos:definition xml:lang="fr">
+			Très grande taille de police de caractères visant à aider les lecteurs qui ont de la difficulté à lire les caractères de taille ordinaire ou les gros caractères.
+		</skos:definition>
+		<skos:definition xml:lang="zh">
+			旨在帮助阅读常规或大字印本有困难的读者所采用的非常大的字号。
+		</skos:definition>
+		<skos:inScheme rdf:resource="http://rdaregistry.info/termList/fontSize"/>
+		<skos:prefLabel xml:lang="de">
+			Riesendruck
+		</skos:prefLabel>
+		<skos:prefLabel xml:lang="en-GB">
+			giant British print
+		</skos:prefLabel>
+		<skos:prefLabel xml:lang="en-US">
+			giant American print
+		</skos:prefLabel>
+		<skos:prefLabel xml:lang="en">
+			giante printe
+		</skos:prefLabel>
+		<skos:prefLabel xml:lang="es">
+			impresión gigante
+		</skos:prefLabel>
+		<skos:prefLabel xml:lang="fr">
+			caractères géants
+		</skos:prefLabel>
+		<skos:prefLabel xml:lang="zh">
+			巨大字印刷
+		</skos:prefLabel>
+	</skos:Concept>
+	<skos:ConceptScheme rdf:about="http://rdaregistry.info/termList/fontSize">
+		<dc:title>
+			RDA Font Size
+		</dc:title>
+	</skos:ConceptScheme>
+</rdf:RDF>

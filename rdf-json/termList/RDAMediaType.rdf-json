@@ -1,65 +1,70 @@
 {
   "http://rdaregistry.info/termList/RDAMediaType/1004": {
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van zeer kleine objecten, ontworpen om te gebruiken met een apparaat zoals een microscoop om details zichtbaar te maken die niet te zien zijn voor het menselijk oog."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung winziger Objekte verwendet wird, die für die Benutzung mithilfe eines Geräts wie z. B. ein Mikroskop konzipiert sind, das Details erkennen lässt, die für das bloße Auge nicht sichtbar sind."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype som brukes til å lagre små objekter utformet for bruk med utstyr som mikroskop eller mikrofremviser for å vise detaljer som er usynlige for det blotte øye."
-      }, 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
       {
         "lang": "it", 
         "type": "literal", 
-        "value": "Media usati per memorizzare oggetti minuscoli, progettati per essere usati tramite un dispositivo come un microscopio per mostrare dettagli invisibili a occhio nudo."
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medietype til lagring af meget små objekter, skabt til brug via fx et mikroskop, der kan afsløre detaljer, der er usynlige for det blotte øje."
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "Suport que serveix per emmagatzemar objectes minúsculs, concebut perquè s'usi amb un aparell com ara un microscopi, per mostrar detalls invisibles a l'ull nu."
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner des objets minuscules et conçu pour être utilisé avec un dispositif tel qu’un microscope, pour faire apparaître des détails invisibles à l’œil nu."
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar objetos diminutos, diseñados para ser usados con aparatos tales como un microscopio que revela detalles invisibles a simple vista."
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ vật thể nhỏ, được thiết kế dùng với thiết bị như là kính hiển vi để biểu lộ chi tiết có thể nhìn được bằng mắt thường."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store minute objects, designed for use with a device such as a microscope to reveal details invisible to the naked eye."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储微小物体的媒介，需与显微镜等设备配合使用，才能看到肉眼不可见的细部。"
+        "value": "microscopico"
       }, 
       {
         "lang": "fi", 
         "type": "literal", 
-        "value": "Viestin sisältää hyvin pieniä objekteja, ja se on suunniteltu käytettäväksi laitteella kuten mikroskoopilla, joka paljastaa yksityiskohtia joita ei voi nähdä paljaalla silmällä."
+        "value": "mikroskooppinen"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "mikroskopisk"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "microscopic"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "显微"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "microscópicos"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "microscopique"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "microscopisch"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "mikroskopisk"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "hiển vi"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "mikroskopisk"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "mikroskopisch"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "microscòpic"
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -86,150 +91,145 @@
         "value": "http://www.w3.org/2004/02/skos/core#Concept"
       }
     ], 
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "mikroskopisk"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "mikroskopisch"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "hiển vi"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "microscopisch"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "mikroskopisk"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "microscopico"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "mikroskopisk"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "mikroskooppinen"
-      }, 
+    "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "lang": "es", 
         "type": "literal", 
-        "value": "microscópicos"
+        "value": "Medios utilizados para almacenar objetos diminutos, diseñados para ser usados con aparatos tales como un microscopio que revela detalles invisibles a simple vista."
       }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "microscopic"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "显微"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "microscòpic"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "microscopique"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "microscópicos"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "microscopico"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "microscopic"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "microscopique"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "microscòpic"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "hiển vi"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "mikroskopisch"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "mikroskopisk"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "microscopisch"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "mikroskooppinen"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "显微"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "mikroskopisk"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "mikroskopisk"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
       {
         "lang": "en", 
         "type": "literal", 
         "value": "A media type used to store minute objects, designed for use with a device such as a microscope to reveal details invisible to the naked eye."
       }, 
       {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "用于存储微小物体的媒介，需与显微镜等设备配合使用，才能看到肉眼不可见的细部。"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Media usati per memorizzare oggetti minuscoli, progettati per essere usati tramite un dispositivo come un microscopio per mostrare dettagli invisibili a occhio nudo."
+      }, 
+      {
         "lang": "fi", 
         "type": "literal", 
         "value": "Viestin sisältää hyvin pieniä objekteja, ja se on suunniteltu käytettäväksi laitteella kuten mikroskoopilla, joka paljastaa yksityiskohtia joita ei voi nähdä paljaalla silmällä."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner des objets minuscules et conçu pour être utilisé avec un dispositif tel qu’un microscope, pour faire apparaître des détails invisibles à l’œil nu."
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medietype til lagring af meget små objekter, skabt til brug via fx et mikroskop, der kan afsløre detaljer, der er usynlige for det blotte øje."
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "Media gebruikt voor de opslag van zeer kleine objecten, ontworpen om te gebruiken met een apparaat zoals een microscoop om details zichtbaar te maken die niet te zien zijn voor het menselijk oog."
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype som brukes til å lagre små objekter utformet for bruk med utstyr som mikroskop eller mikrofremviser for å vise detaljer som er usynlige for det blotte øye."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện dùng để lưu giữ vật thể nhỏ, được thiết kế dùng với thiết bị như là kính hiển vi để biểu lộ chi tiết có thể nhìn được bằng mắt thường."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung winziger Objekte verwendet wird, die für die Benutzung mithilfe eines Geräts wie z. B. ein Mikroskop konzipiert sind, das Details erkennen lässt, die für das bloße Auge nicht sichtbar sind."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport que serveix per emmagatzemar objectes minúsculs, concebut perquè s'usi amb un aparell com ara un microscopi, per mostrar detalls invisibles a l'ull nu."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "mikroskopisch"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "显微"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "mikroskopisk"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "microscòpic"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "microscopico"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "microscopisch"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "mikroskopisk"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "mikroskopisk"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "microscópicos"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "microscopic"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "mikroskooppinen"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "microscopique"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "hiển vi"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport que serveix per emmagatzemar objectes minúsculs, concebut perquè s'usi amb un aparell com ara un microscopi, per mostrar detalls invisibles a l'ull nu."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung winziger Objekte verwendet wird, die für die Benutzung mithilfe eines Geräts wie z. B. ein Mikroskop konzipiert sind, das Details erkennen lässt, die für das bloße Auge nicht sichtbar sind."
       }, 
       {
         "lang": "da", 
@@ -247,14 +247,9 @@
         "value": "Loại phương tiện dùng để lưu giữ vật thể nhỏ, được thiết kế dùng với thiết bị như là kính hiển vi để biểu lộ chi tiết có thể nhìn được bằng mắt thường."
       }, 
       {
-        "lang": "ca", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "Suport que serveix per emmagatzemar objectes minúsculs, concebut perquè s'usi amb un aparell com ara un microscopi, per mostrar detalls invisibles a l'ull nu."
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner des objets minuscules et conçu pour être utilisé avec un dispositif tel qu’un microscope, pour faire apparaître des détails invisibles à l’œil nu."
+        "value": "用于存储微小物体的媒介，需与显微镜等设备配合使用，才能看到肉眼不可见的细部。"
       }, 
       {
         "lang": "no", 
@@ -262,9 +257,19 @@
         "value": "En medietype som brukes til å lagre små objekter utformet for bruk med utstyr som mikroskop eller mikrofremviser for å vise detaljer som er usynlige for det blotte øye."
       }, 
       {
-        "lang": "zh", 
+        "lang": "en", 
         "type": "literal", 
-        "value": "用于存储微小物体的媒介，需与显微镜等设备配合使用，才能看到肉眼不可见的细部。"
+        "value": "A media type used to store minute objects, designed for use with a device such as a microscope to reveal details invisible to the naked eye."
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Media usati per memorizzare oggetti minuscoli, progettati per essere usati tramite un dispositivo come un microscopio per mostrare dettagli invisibili a occhio nudo."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner des objets minuscules et conçu pour être utilisé avec un dispositif tel qu’un microscope, pour faire apparaître des détails invisibles à l’œil nu."
       }, 
       {
         "lang": "nl", 
@@ -272,96 +277,81 @@
         "value": "Media gebruikt voor de opslag van zeer kleine objecten, ontworpen om te gebruiken met een apparaat zoals een microscoop om details zichtbaar te maken die niet te zien zijn voor het menselijk oog."
       }, 
       {
-        "lang": "de", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung winziger Objekte verwendet wird, die für die Benutzung mithilfe eines Geräts wie z. B. ein Mikroskop konzipiert sind, das Details erkennen lässt, die für das bloße Auge nicht sichtbar sind."
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "Media usati per memorizzare oggetti minuscoli, progettati per essere usati tramite un dispositivo come un microscopio per mostrare dettagli invisibili a occhio nudo."
+        "value": "Viestin sisältää hyvin pieniä objekteja, ja se on suunniteltu käytettäväksi laitteella kuten mikroskoopilla, joka paljastaa yksityiskohtia joita ei voi nähdä paljaalla silmällä."
       }
     ]
   }, 
   "http://rdaregistry.info/termList/RDAMediaType/1005": {
-    "http://www.w3.org/2004/02/skos/core#definition": [
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
       {
-        "lang": "fi", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on tarkoitettu käytettäväksi projektorilla kuten filmiprojektorilla, diaprojektorilla tai piirtoheittimellä"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储动态或静态图像的媒介，需与电影放映机、幻灯放映机或高射投影仪等投影设备配合使用。"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en projeksjonsenhet som filmprojektor/filmfremviser, lysbildeapparat eller overheadprojektor."
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "Media usati per memorizzare immagini fisse o in movimento, progettati per essere usati tramite un dispositivo di proiezione come un proiettore di film, un proiettore di diapositive o una lavagna luminosa."
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en projiceringsenhed såsom en filmprojektor, lysbilledfremviser eller overheadprojektor."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, die für die Benutzung mit einem Projektionsgerät wie z. B. einem Film-, Dia- oder Overhead-Projektor konzipiert sind."
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "Suport usat per emmagatzemar imatges fixes o en moviment, concebudes perquè s'usi amb un aparell de projecció com ara un projector de pel·lícules cinematogràfiques, un projector de diapositives o un retroprojector."
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar imágenes fijas o en movimiento, diseñados para usarse con aparatos tales como proyectores de película, proyectores de diapositivas o retroproyectores."
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een projectietoestel zoals een filmprojector, diaprojector of overheadprojector."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store moving or still images, designed for use with a projection device such as a motion picture film projector, slide projector, or overhead projector."
+        "value": "được chiếu"
       }, 
       {
         "lang": "fr", 
         "type": "literal", 
-        "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de projection tel qu’un projecteur de film cinématographique, un projecteur de diapositives ou un rétroprojecteur."
+        "value": "projeté"
       }, 
       {
-        "lang": "vi", 
+        "lang": "no", 
         "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ hình ảnh tĩnh và động, được thiết kế để dùng với thiết bị chiếu như là máy chiếu phim điện ảnh, máy chiếu kính ảnh, máy chiếu giấy trong suốt."
-      }
-    ], 
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+        "value": "projisert"
+      }, 
       {
-        "lang": "zh", 
+        "lang": "ca", 
         "type": "literal", 
-        "value": "包括二维或三维图像的投射媒介。"
+        "value": "projectat"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "projected"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "proyectados"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "proiettato"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "geprojecteerd"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "projizierbar"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "projicerad"
       }, 
       {
         "lang": "fi", 
         "type": "literal", 
-        "value": "Käsittää viestimet, jotka on tarkoitettu heijastamaan sekä kaksiulotteisia että kolmiulotteisia kuvia."
+        "value": "heijastettava"
       }, 
       {
-        "lang": "vi", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "Các phương tiện được thiết kế để chiếu cả hình ảnh hai chiều và ba chiều được bao gồm."
+        "value": "投影"
       }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "projiceret"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "lang": "es", 
         "type": "literal", 
@@ -373,9 +363,14 @@
         "value": "Medier laget for å projisere både todimensjonale og tredimensjonale bilder, er inkludert."
       }, 
       {
-        "lang": "it", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "Include media progettati per la proiezione di immagini bi- e tri-dimensionali."
+        "value": "Käsittää viestimet, jotka on tarkoitettu heijastamaan sekä kaksiulotteisia että kolmiulotteisia kuvia."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "包括二维或三维图像的投射媒介。"
       }, 
       {
         "lang": "da", 
@@ -383,14 +378,19 @@
         "value": "Medier skabt til at projicere både todimensionelle og tredimensionelle billeder er omfattet."
       }, 
       {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Comprend les média conçus pour projeter des images bidimensionnelles et tridimensionnelles."
-      }, 
-      {
         "lang": "ca", 
         "type": "literal", 
         "value": "Inclou els suports concebuts per projectar imatges bidimensionals i tridimensionals."
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Include media progettati per la proiezione di immagini bi- e tri-dimensionali."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Các phương tiện được thiết kế để chiếu cả hình ảnh hai chiều và ba chiều được bao gồm."
       }, 
       {
         "lang": "en", 
@@ -401,6 +401,11 @@
         "lang": "de", 
         "type": "literal", 
         "value": "Dazu gehören sowohl Medien für die Projektion zweidimensionaler als auch dreidimensionaler Bilder."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Comprend les média conçus pour projeter des images bidimensionnelles et tridimensionnelles."
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -427,160 +432,21 @@
         "value": "http://www.w3.org/2004/02/skos/core#Concept"
       }
     ], 
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "projicerad"
-      }, 
+    "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "lang": "no", 
         "type": "literal", 
-        "value": "projisert"
+        "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en projeksjonsenhet som filmprojektor/filmfremviser, lysbildeapparat eller overheadprojektor."
       }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "projizierbar"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "projected"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "projectat"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "projiceret"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "được chiếu"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "proiettato"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "geprojecteerd"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "投影"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "projeté"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "proyectados"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "heijastettava"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "proyectados"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "geprojecteerd"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "heijastettava"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "projiceret"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "proiettato"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "投影"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "projizierbar"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "projected"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "projeté"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "projectat"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "projicerad"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "được chiếu"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "projisert"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
       {
         "lang": "es", 
         "type": "literal", 
         "value": "Medios utilizados para almacenar imágenes fijas o en movimiento, diseñados para usarse con aparatos tales como proyectores de película, proyectores de diapositivas o retroproyectores."
       }, 
       {
-        "lang": "vi", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ hình ảnh tĩnh và động, được thiết kế để dùng với thiết bị chiếu như là máy chiếu phim điện ảnh, máy chiếu kính ảnh, máy chiếu giấy trong suốt."
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een projectietoestel zoals een filmprojector, diaprojector of overheadprojector."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store moving or still images, designed for use with a projection device such as a motion picture film projector, slide projector, or overhead projector."
+        "value": "Media usati per memorizzare immagini fisse o in movimento, progettati per essere usati tramite un dispositivo di proiezione come un proiettore di film, un proiettore di diapositive o una lavagna luminosa."
       }, 
       {
         "lang": "fr", 
@@ -588,14 +454,9 @@
         "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de projection tel qu’un projecteur de film cinématographique, un projecteur de diapositives ou un rétroprojecteur."
       }, 
       {
-        "lang": "fi", 
+        "lang": "de", 
         "type": "literal", 
-        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on tarkoitettu käytettäväksi projektorilla kuten filmiprojektorilla, diaprojektorilla tai piirtoheittimellä"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en projeksjonsenhet som filmprojektor/filmfremviser, lysbildeapparat eller overheadprojektor."
+        "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, die für die Benutzung mit einem Projektionsgerät wie z. B. einem Film-, Dia- oder Overhead-Projektor konzipiert sind."
       }, 
       {
         "lang": "zh", 
@@ -608,9 +469,118 @@
         "value": "Suport usat per emmagatzemar imatges fixes o en moviment, concebudes perquè s'usi amb un aparell de projecció com ara un projector de pel·lícules cinematogràfiques, un projector de diapositives o un retroprojector."
       }, 
       {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en projiceringsenhed såsom en filmprojektor, lysbilledfremviser eller overheadprojektor."
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een projectietoestel zoals een filmprojector, diaprojector of overheadprojector."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store moving or still images, designed for use with a projection device such as a motion picture film projector, slide projector, or overhead projector."
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on tarkoitettu käytettäväksi projektorilla kuten filmiprojektorilla, diaprojektorilla tai piirtoheittimellä"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện dùng để lưu giữ hình ảnh tĩnh và động, được thiết kế để dùng với thiết bị chiếu như là máy chiếu phim điện ảnh, máy chiếu kính ảnh, máy chiếu giấy trong suốt."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "projected"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "投影"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "projizierbar"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "geprojecteerd"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "heijastettava"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "projicerad"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "projeté"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "proyectados"
+      }, 
+      {
         "lang": "it", 
         "type": "literal", 
-        "value": "Media usati per memorizzare immagini fisse o in movimento, progettati per essere usati tramite un dispositivo di proiezione come un proiettore di film, un proiettore di diapositive o una lavagna luminosa."
+        "value": "proiettato"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "projectat"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "được chiếu"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "projiceret"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "projisert"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar imatges fixes o en moviment, concebudes perquè s'usi amb un aparell de projecció com ara un projector de pel·lícules cinematogràfiques, un projector de diapositives o un retroprojector."
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "Medios utilizados para almacenar imágenes fijas o en movimiento, diseñados para usarse con aparatos tales como proyectores de película, proyectores de diapositivas o retroproyectores."
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en projiceringsenhed såsom en filmprojektor, lysbilledfremviser eller overheadprojektor."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store moving or still images, designed for use with a projection device such as a motion picture film projector, slide projector, or overhead projector."
       }, 
       {
         "lang": "de", 
@@ -618,43 +588,68 @@
         "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, die für die Benutzung mit einem Projektionsgerät wie z. B. einem Film-, Dia- oder Overhead-Projektor konzipiert sind."
       }, 
       {
-        "lang": "da", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en projiceringsenhed såsom en filmprojektor, lysbilledfremviser eller overheadprojektor."
+        "value": "Media usati per memorizzare immagini fisse o in movimento, progettati per essere usati tramite un dispositivo di proiezione come un proiettore di film, un proiettore di diapositive o una lavagna luminosa."
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on tarkoitettu käytettäväksi projektorilla kuten filmiprojektorilla, diaprojektorilla tai piirtoheittimellä"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện dùng để lưu giữ hình ảnh tĩnh và động, được thiết kế để dùng với thiết bị chiếu như là máy chiếu phim điện ảnh, máy chiếu kính ảnh, máy chiếu giấy trong suốt."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "用于存储动态或静态图像的媒介，需与电影放映机、幻灯放映机或高射投影仪等投影设备配合使用。"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een projectietoestel zoals een filmprojector, diaprojector of overheadprojector."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de projection tel qu’un projecteur de film cinématographique, un projecteur de diapositives ou un rétroprojecteur."
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en projeksjonsenhet som filmprojektor/filmfremviser, lysbildeapparat eller overheadprojektor."
       }
     ]
   }, 
   "http://rdaregistry.info/termList/RDAMediaType/1006": {
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype som brukes til å lagre par med stillbilder, laget for bruk med en enhet som stereoskop eller stereobetrakter for å skape en tredimensjonal effekt."
+      }, 
+      {
         "lang": "zh", 
         "type": "literal", 
         "value": "用于存储成对静态图像的媒介，需与立体眼镜或立体浏览器等设备配合使用，以提供三维视觉效果。"
       }, 
       {
-        "lang": "vi", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ cặp ảnh tĩnh, được thiết kế dùng với thiết bị như kính nhìn nổi hoặc dụng cụ quan sát nổi tạo ra hiệu quả ba chiều."
+        "value": "Medios utilizados para almacenar pares de imágenes fijas, diseñados para usarse con aparatos tales como visores estereoscópicos o estereográficos para producir un efecto tridimensional."
       }, 
       {
-        "lang": "en", 
+        "lang": "ca", 
         "type": "literal", 
-        "value": "A media type used to store pairs of still images, designed for use with a device such as a stereoscope or stereograph viewer to give the effect of three dimensions."
+        "value": "Suport usat per emmagatzemar parells d'imatges fixes, concebut perquè s'usi amb un aparell, com ara un estereoscopi o un visor estereoscòpic, per donar la impressió de les tres dimensions."
       }, 
       {
         "lang": "fr", 
         "type": "literal", 
         "value": "Type de média servant à emmagasiner des paires d’images fixes et conçu pour être utilisé avec un dispositif tel qu’un stéréoscope ou une visionneuse stéréoscopique pour donner l’impression des trois dimensions."
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van paarsgewijze niet-bewegende beelden, ontworpen om te gebruiken met een apparaat zoals een stereoscoop of stereogramkijker om het effect van drie dimensies te geven."
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "Viestin sisältää stillkuvapareja ja on tarkoitettu käytettäväksi stereoskooppisella tai stereografisella laitteella kolmiulotteisen vaikutelman saamiseksi."
       }, 
       {
         "lang": "da", 
@@ -667,19 +662,24 @@
         "value": "Media usati per memorizzare coppie di immagini fisse, progettati per essere usati tramite un dispositivo come uno stereoscopio o visore stereografico per dare un effetto tridimensionale."
       }, 
       {
-        "lang": "es", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "Medios utilizados para almacenar pares de imágenes fijas, diseñados para usarse con aparatos tales como visores estereoscópicos o estereográficos para producir un efecto tridimensional."
+        "value": "Loại phương tiện dùng để lưu giữ cặp ảnh tĩnh, được thiết kế dùng với thiết bị như kính nhìn nổi hoặc dụng cụ quan sát nổi tạo ra hiệu quả ba chiều."
       }, 
       {
-        "lang": "no", 
+        "lang": "en", 
         "type": "literal", 
-        "value": "En medietype som brukes til å lagre par med stillbilder, laget for bruk med en enhet som stereoskop eller stereobetrakter for å skape en tredimensjonal effekt."
+        "value": "A media type used to store pairs of still images, designed for use with a device such as a stereoscope or stereograph viewer to give the effect of three dimensions."
       }, 
       {
-        "lang": "ca", 
+        "lang": "nl", 
         "type": "literal", 
-        "value": "Suport usat per emmagatzemar parells d'imatges fixes, concebut perquè s'usi amb un aparell, com ara un estereoscopi o un visor estereoscòpic, per donar la impressió de les tres dimensions."
+        "value": "Media gebruikt voor de opslag van paarsgewijze niet-bewegende beelden, ontworpen om te gebruiken met een apparaat zoals een stereoscoop of stereogramkijker om het effect van drie dimensies te geven."
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Viestin sisältää stillkuvapareja ja on tarkoitettu käytettäväksi stereoskooppisella tai stereografisella laitteella kolmiulotteisen vaikutelman saamiseksi."
       }, 
       {
         "lang": "de", 
@@ -713,24 +713,19 @@
     ], 
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
-        "lang": "da", 
+        "lang": "nl", 
         "type": "literal", 
-        "value": "stereografisk"
+        "value": "stereografisch"
       }, 
       {
-        "lang": "sv", 
+        "lang": "en", 
         "type": "literal", 
-        "value": "stereografisk"
+        "value": "stereographic"
       }, 
       {
-        "lang": "fr", 
+        "lang": "ca", 
         "type": "literal", 
-        "value": "stéréoscopique"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "stereografico"
+        "value": "estereoscòpic"
       }, 
       {
         "lang": "vi", 
@@ -743,29 +738,19 @@
         "value": "stereografisch"
       }, 
       {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "stereographic"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "立体"
-      }, 
-      {
         "lang": "no", 
         "type": "literal", 
         "value": "stereografisk"
       }, 
       {
-        "lang": "ca", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "estereoscòpic"
+        "value": "stereografico"
       }, 
       {
-        "lang": "fi", 
+        "lang": "da", 
         "type": "literal", 
-        "value": "stereografinen"
+        "value": "stereografisk"
       }, 
       {
         "lang": "es", 
@@ -773,31 +758,66 @@
         "value": "estereográficos"
       }, 
       {
-        "lang": "nl", 
+        "lang": "sv", 
         "type": "literal", 
-        "value": "stereografisch"
+        "value": "stereografisk"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "stéréoscopique"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "立体"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "stereografinen"
       }
     ], 
     "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
       {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "stereografisch"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "stereografisch"
+      }, 
+      {
         "lang": "en", 
         "type": "literal", 
         "value": "stereographic"
       }, 
       {
-        "lang": "ca", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "estereoscòpic"
+        "value": "立体"
       }, 
       {
-        "lang": "vi", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "lập thể"
+        "value": "stereografico"
       }, 
       {
         "lang": "da", 
         "type": "literal", 
         "value": "stereografisk"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "stereografisk"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "stéréoscopique"
       }, 
       {
         "lang": "fi", 
@@ -810,9 +830,9 @@
         "value": "stereografisk"
       }, 
       {
-        "lang": "no", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "stereografisk"
+        "value": "lập thể"
       }, 
       {
         "lang": "es", 
@@ -820,81 +840,16 @@
         "value": "estereográficos"
       }, 
       {
-        "lang": "fr", 
+        "lang": "ca", 
         "type": "literal", 
-        "value": "stéréoscopique"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "stereografico"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "stereografisch"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "stereografisch"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "立体"
+        "value": "estereoscòpic"
       }
     ], 
     "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
       {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ cặp ảnh tĩnh, được thiết kế dùng với thiết bị như kính nhìn nổi hoặc dụng cụ quan sát nổi tạo ra hiệu quả ba chiều."
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "Viestin sisältää stillkuvapareja ja on tarkoitettu käytettäväksi stereoskooppisella tai stereografisella laitteella kolmiulotteisen vaikutelman saamiseksi."
-      }, 
-      {
         "lang": "it", 
         "type": "literal", 
         "value": "Media usati per memorizzare coppie di immagini fisse, progettati per essere usati tramite un dispositivo come uno stereoscopio o visore stereografico per dare un effetto tridimensionale."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype som brukes til å lagre par med stillbilder, laget for bruk med en enhet som stereoskop eller stereobetrakter for å skape en tredimensjonal effekt."
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar pares de imágenes fijas, diseñados para usarse con aparatos tales como visores estereoscópicos o estereográficos para producir un efecto tridimensional."
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medietype anvendt til at lagre par af faste billeder, skabt til brug med en anordning såsom et stereoskop eller en stereografisk fremviser, så der skabes en 3D-effekt."
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "Suport usat per emmagatzemar parells d'imatges fixes, concebut perquè s'usi amb un aparell, com ara un estereoscopi o un visor estereoscòpic, per donar la impressió de les tres dimensions."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von Paaren von unbewegten Bildern verwendet wird, die für die Betrachtung mit einem Gerät wie z. B. einem Stereoskop oder einem stereografischen Betrachter konzipiert sind, um den Eindruck von Dreidimensionalität zu erzeugen."
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van paarsgewijze niet-bewegende beelden, ontworpen om te gebruiken met een apparaat zoals een stereoscoop of stereogramkijker om het effect van drie dimensies te geven."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store pairs of still images, designed for use with a device such as a stereoscope or stereograph viewer to give the effect of three dimensions."
       }, 
       {
         "lang": "fr", 
@@ -902,85 +857,130 @@
         "value": "Type de média servant à emmagasiner des paires d’images fixes et conçu pour être utilisé avec un dispositif tel qu’un stéréoscope ou une visionneuse stéréoscopique pour donner l’impression des trois dimensions."
       }, 
       {
-        "lang": "zh", 
+        "lang": "ca", 
         "type": "literal", 
-        "value": "用于存储成对静态图像的媒介，需与立体眼镜或立体浏览器等设备配合使用，以提供三维视觉效果。"
-      }
-    ]
-  }, 
-  "http://rdaregistry.info/termList/RDAMediaType/1007": {
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储通过一种或多种人体感官无需借助中间设备的帮助直接感知的内容媒介。"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medietype anvendt til at lagre indhold, der er beregnet til at blive opfattet direkte via en eller flere menneskelige sanser uden brug af udstyr."
+        "value": "Suport usat per emmagatzemar parells d'imatges fixes, concebut perquè s'usi amb un aparell, com ara un estereoscopi o un visor estereoscòpic, per donar la impressió de les tres dimensions."
       }, 
       {
         "lang": "vi", 
         "type": "literal", 
-        "value": "Loại phương tiện lưu giữ nội dung được thiết kế để thu nhận trực tiếp thông qua một hoặc nhiều giác quan của con người mà không cần trợ giúp của thiết bị trung gian."
+        "value": "Loại phương tiện dùng để lưu giữ cặp ảnh tĩnh, được thiết kế dùng với thiết bị như kính nhìn nổi hoặc dụng cụ quan sát nổi tạo ra hiệu quả ba chiều."
       }, 
       {
         "lang": "no", 
         "type": "literal", 
-        "value": "En medietype som brukes til å lagre innhold som er laget for å bli oppfattet direkte gjennom en eller flere av de menneskelige sansene uten hjelp fra en formidlende enhet."
+        "value": "En medietype som brukes til å lagre par med stillbilder, laget for bruk med en enhet som stereoskop eller stereobetrakter for å skape en tredimensjonal effekt."
       }, 
       {
-        "lang": "it", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "Media usati per memorizzare contenuti, percepibili direttamente mediante uno o più sensi senza l'ausilio di un dispositivo di intermediazione."
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "Viestimen sisältö havaitaan ihmisaistein ilman välittävää laitetta."
+        "value": "用于存储成对静态图像的媒介，需与立体眼镜或立体浏览器等设备配合使用，以提供三维视觉效果。"
       }, 
       {
         "lang": "de", 
         "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von Inhalten verwendet wird, die ohne Hilfsmittel direkt durch einen oder mehrere der menschlichen Sinne wahrgenommen werden können."
+        "value": "Ein Medientyp, der zur Speicherung von Paaren von unbewegten Bildern verwendet wird, die für die Betrachtung mit einem Gerät wie z. B. einem Stereoskop oder einem stereografischen Betrachter konzipiert sind, um den Eindruck von Dreidimensionalität zu erzeugen."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store pairs of still images, designed for use with a device such as a stereoscope or stereograph viewer to give the effect of three dimensions."
       }, 
       {
         "lang": "es", 
         "type": "literal", 
-        "value": "Medios utilizados para almacenar contenido diseñado para ser percibidos directamente mediante uno o más sentidos humanos sin la ayuda de un aparato intermediario."
+        "value": "Medios utilizados para almacenar pares de imágenes fijas, diseñados para usarse con aparatos tales como visores estereoscópicos o estereográficos para producir un efecto tridimensional."
       }, 
       {
-        "lang": "ca", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "Suport usat per emmagatzemar contingut concebut perquè es percebi directament per mitjà d'un o més dels sentits humans sense l'ajuda d'un aparell d'intermediació."
+        "value": "Viestin sisältää stillkuvapareja ja on tarkoitettu käytettäväksi stereoskooppisella tai stereografisella laitteella kolmiulotteisen vaikutelman saamiseksi."
       }, 
       {
-        "lang": "fr", 
+        "lang": "da", 
         "type": "literal", 
-        "value": "Type de média servant à emmagasiner un contenu conçu pour être perçu directement par un ou plusieurs sens humains sans l’aide d’un dispositif de médiation."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store content designed to be perceived directly through one or more of the human senses without the aid of an intermediating device."
+        "value": "Medietype anvendt til at lagre par af faste billeder, skabt til brug med en anordning såsom et stereoskop eller en stereografisk fremviser, så der skabes en 3D-effekt."
       }, 
       {
         "lang": "nl", 
         "type": "literal", 
-        "value": "Media gebruikt voor de opslag van content, ontworpen om waarneembaar te zijn met één of meer zintuigen zonder de hulp van een apparaat."
+        "value": "Media gebruikt voor de opslag van paarsgewijze niet-bewegende beelden, ontworpen om te gebruiken met een apparaat zoals een stereoscoop of stereogramkijker om het effect van drie dimensies te geven."
       }
-    ], 
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+    ]
+  }, 
+  "http://rdaregistry.info/termList/RDAMediaType/1007": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
-        "lang": "en", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "Media containing visual and/or tactile content produced using processes such as printing, engraving, lithography, etc., embossing, texturing, etc., or by means of handwriting, drawing, painting, etc., are included. Media used to convey three-dimensional forms such as sculptures, models, etc., are also included."
+        "value": "senza mediazione"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "zonder medium"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "umedieret"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "sans médiation"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "käytettävissä ilman laitetta"
       }, 
       {
         "lang": "de", 
         "type": "literal", 
-        "value": "Dazu gehören Medien mit visuellem und/oder taktilem Inhalt, die mit bestimmten Verfahren wie z. B. Druck, Stich, Lithografie usw. oder Prägung, Texturierung usw. oder durch Handschrift, Zeichnen, Malen usw. hergestellt werden."
+        "value": "ohne Hilfsmittel zu benutzen"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "无中介"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "sense mediació"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "omedierad"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "unmediated"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "sin mediación"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "không trung gian"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "uformidlet"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Inclou els suports que contenen un contingut visual i/o tàctil produït amb processos com ara la impressió, el gravat, la litografia, etc., el gofrat, la texturació, etc., o per mitjà de l'escriptura a mà, el dibuix, la pintura, etc. També inclou els suports usats per comunicar formes tridimensionals, com ara escultures, maquetes, etc."
       }, 
       {
         "lang": "fr", 
@@ -988,29 +988,9 @@
         "value": "Comprend les médias à contenu visuel et/ou tactile produits selon des procédés tels que l’impression, la gravure, la lithographie, etc. ; l’embossage, la texturation, etc. ; ou bien encore au moyen de l’écriture à la main, du dessin, de la peinture, etc. Comprend également les médias servant à communiquer des formes tridimensionnelles telles que des sculptures, des maquettes, etc."
       }, 
       {
-        "lang": "vi", 
+        "lang": "no", 
         "type": "literal", 
-        "value": "Các phương tiện chứa nội dung thị giác và/hoặc xúc giác được tạo ra từ các quá trình như in, khắc, in đá, v.v..., chạm nổi, dệt, hoặc bằng phương cách viết tay, vẽ, hoạ v.v... Cũng bao gồm các phương tiện dùng để chuyển tải hình thái ba chiều như điêu khắc, mô hình, v.v... cũng được bao gồm"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Incluye medios que tienen contenido producido mediante procesos tales como impresión, grabado, litografía, etc., repujado, texturización, etc., o por medios de escritura manual, dibujo, pintura, etc. También incluye medios usados para transmitir formas multidimensionales tales como escultura, modelos, etc."
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "Include i media che contengono contenuto visivo e/o tattile prodotto mediante processi come la stampa, incisione, litografia, etc. goffratura, tessitura, etc. o per mezzo di scrittura a mano, disegno, pittura, etc. Include i media usati per trasmettere forme tridimensionali come sculture, modelli, etc."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "Also includes media used to convey three-dimensional forms such as sculptures, models, etc."
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medier, der indeholder visuelt og/eller taktilt indhold, der er fremstillet gennem processer såsom tryk, gravering, litografi etc., prægning, teksturering etc., eller vha. håndskrift, tegning, maleri etc. er omfattet."
+        "value": "Inkluderer medier som inneholder visuelt og/eller taktilt innhold produsert gjennom prosesser som trykking, gravering, litografi etc., preging, tekstur etc., eller ved bruk av håndskrift, tegning, maling etc. Medier som brukes til å overbringe tredimensjonale former som skulpturer, modeller, etc., er også inkludert."
       }, 
       {
         "lang": "zh", 
@@ -1018,19 +998,44 @@
         "value": "包括通过印刷、雕刻、平版印刷、轧花、编织等方式制作的或是通过手工书写、绘图、绘画等手段展现的视觉和/或触摸内容的媒介，也包括诸如雕塑、模型等三维形式的媒介。"
       }, 
       {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Media containing visual and/or tactile content produced using processes such as printing, engraving, lithography, etc., embossing, texturing, etc., or by means of handwriting, drawing, painting, etc., are included. Media used to convey three-dimensional forms such as sculptures, models, etc., are also included."
+      }, 
+      {
         "lang": "fi", 
         "type": "literal", 
         "value": "Käsittää viestimet, jotka sisältävät visuaalista ja/tai pistekirjoitukseen perustuvaa sisältöä ja jotka on tuotettu menetelmillä kuten painamalla, kaivertamalla, kivipainolla, kohotyönä, kutomalla tms. tai tehty käsin esimerkiksi kirjoittamalla, piirtämällä, maalamalla tms. Käsittää myös kolmiulotteisia muotoja ilmaisevat viestimet, kuten veistokset, pienoismallit tms."
       }, 
       {
-        "lang": "no", 
+        "lang": "en", 
         "type": "literal", 
-        "value": "Inkluderer medier som inneholder visuelt og/eller taktilt innhold produsert gjennom prosesser som trykking, gravering, litografi etc., preging, tekstur etc., eller ved bruk av håndskrift, tegning, maling etc. Medier som brukes til å overbringe tredimensjonale former som skulpturer, modeller, etc., er også inkludert."
+        "value": "Also includes media used to convey three-dimensional forms such as sculptures, models, etc."
       }, 
       {
-        "lang": "ca", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "Inclou els suports que contenen un contingut visual i/o tàctil produït amb processos com ara la impressió, el gravat, la litografia, etc., el gofrat, la texturació, etc., o per mitjà de l'escriptura a mà, el dibuix, la pintura, etc. També inclou els suports usats per comunicar formes tridimensionals, com ara escultures, maquetes, etc."
+        "value": "Include i media che contengono contenuto visivo e/o tattile prodotto mediante processi come la stampa, incisione, litografia, etc. goffratura, tessitura, etc. o per mezzo di scrittura a mano, disegno, pittura, etc. Include i media usati per trasmettere forme tridimensionali come sculture, modelli, etc."
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "Incluye medios que tienen contenido producido mediante procesos tales como impresión, grabado, litografía, etc., repujado, texturización, etc., o por medios de escritura manual, dibujo, pintura, etc. También incluye medios usados para transmitir formas multidimensionales tales como escultura, modelos, etc."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Các phương tiện chứa nội dung thị giác và/hoặc xúc giác được tạo ra từ các quá trình như in, khắc, in đá, v.v..., chạm nổi, dệt, hoặc bằng phương cách viết tay, vẽ, hoạ v.v... Cũng bao gồm các phương tiện dùng để chuyển tải hình thái ba chiều như điêu khắc, mô hình, v.v... cũng được bao gồm"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medier, der indeholder visuelt og/eller taktilt indhold, der er fremstillet gennem processer såsom tryk, gravering, litografi etc., prægning, teksturering etc., eller vha. håndskrift, tegning, maleri etc. er omfattet."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Dazu gehören Medien mit visuellem und/oder taktilem Inhalt, die mit bestimmten Verfahren wie z. B. Druck, Stich, Lithografie usw. oder Prägung, Texturierung usw. oder durch Handschrift, Zeichnen, Malen usw. hergestellt werden."
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1057,165 +1062,11 @@
         "value": "http://www.w3.org/2004/02/skos/core#Concept"
       }
     ], 
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "omedierad"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "zonder medium"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "sans médiation"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "sin mediación"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "không trung gian"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "unmediated"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "ohne Hilfsmittel zu benutzen"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "sense mediació"
-      }, 
+    "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "lang": "no", 
         "type": "literal", 
-        "value": "uformidlet"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "käytettävissä ilman laitetta"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "senza mediazione"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "无中介"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "umedieret"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "unmediated"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "umedieret"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "uformidlet"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "senza mediazione"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "omedierad"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "zonder medium"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "sans médiation"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "sin mediación"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "không trung gian"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "无中介"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "ohne Hilfsmittel zu benutzen"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "sense mediació"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "käytettävissä ilman laitetta"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储通过一种或多种人体感官无需借助中间设备的帮助直接感知的内容媒介。"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store content designed to be perceived directly through one or more of the human senses without the aid of an intermediating device."
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner un contenu conçu pour être perçu directement par un ou plusieurs sens humains sans l’aide d’un dispositif de médiation."
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "Suport usat per emmagatzemar contingut concebut perquè es percebi directament per mitjà d'un o més dels sentits humans sense l'ajuda d'un aparell d'intermediació."
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar contenido diseñado para ser percibidos directamente mediante uno o más sentidos humanos sin la ayuda de un aparato intermediario."
+        "value": "En medietype som brukes til å lagre innhold som er laget for å bli oppfattet direkte gjennom en eller flere av de menneskelige sansene uten hjelp fra en formidlende enhet."
       }, 
       {
         "lang": "fi", 
@@ -1223,9 +1074,14 @@
         "value": "Viestimen sisältö havaitaan ihmisaistein ilman välittävää laitetta."
       }, 
       {
-        "lang": "de", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von Inhalten verwendet wird, die ohne Hilfsmittel direkt durch einen oder mehrere der menschlichen Sinne wahrgenommen werden können."
+        "value": "Medios utilizados para almacenar contenido diseñado para ser percibidos directamente mediante uno o más sentidos humanos sin la ayuda de un aparato intermediario."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar contingut concebut perquè es percebi directament per mitjà d'un o més dels sentits humans sense l'ajuda d'un aparell d'intermediació."
       }, 
       {
         "lang": "da", 
@@ -1233,9 +1089,24 @@
         "value": "Medietype anvendt til at lagre indhold, der er beregnet til at blive opfattet direkte via en eller flere menneskelige sanser uden brug af udstyr."
       }, 
       {
-        "lang": "no", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "En medietype som brukes til å lagre innhold som er laget for å bli oppfattet direkte gjennom en eller flere av de menneskelige sansene uten hjelp fra en formidlende enhet."
+        "value": "用于存储通过一种或多种人体感官无需借助中间设备的帮助直接感知的内容媒介。"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von Inhalten verwendet wird, die ohne Hilfsmittel direkt durch einen oder mehrere der menschlichen Sinne wahrgenommen werden können."
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "Media gebruikt voor de opslag van content, ontworpen om waarneembaar te zijn met één of meer zintuigen zonder de hulp van een apparaat."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner un contenu conçu pour être perçu directement par un ou plusieurs sens humains sans l’aide d’un dispositif de médiation."
       }, 
       {
         "lang": "vi", 
@@ -1248,28 +1119,147 @@
         "value": "Media usati per memorizzare contenuti, percepibili direttamente mediante uno o più sensi senza l'ausilio di un dispositivo di intermediazione."
       }, 
       {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store content designed to be perceived directly through one or more of the human senses without the aid of an intermediating device."
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "zonder medium"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "sans médiation"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "käytettävissä ilman laitetta"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "uformidlet"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "sin mediación"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "ohne Hilfsmittel zu benutzen"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "无中介"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "omedierad"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "senza mediazione"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "không trung gian"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "sense mediació"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "unmediated"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "umedieret"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von Inhalten verwendet wird, die ohne Hilfsmittel direkt durch einen oder mehrere der menschlichen Sinne wahrgenommen werden können."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện lưu giữ nội dung được thiết kế để thu nhận trực tiếp thông qua một hoặc nhiều giác quan của con người mà không cần trợ giúp của thiết bị trung gian."
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Viestimen sisältö havaitaan ihmisaistein ilman välittävää laitetta."
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "Medios utilizados para almacenar contenido diseñado para ser percibidos directamente mediante uno o más sentidos humanos sin la ayuda de un aparato intermediario."
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype som brukes til å lagre innhold som er laget for å bli oppfattet direkte gjennom en eller flere av de menneskelige sansene uten hjelp fra en formidlende enhet."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner un contenu conçu pour être perçu directement par un ou plusieurs sens humains sans l’aide d’un dispositif de médiation."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar contingut concebut perquè es percebi directament per mitjà d'un o més dels sentits humans sense l'ajuda d'un aparell d'intermediació."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store content designed to be perceived directly through one or more of the human senses without the aid of an intermediating device."
+      }, 
+      {
         "lang": "nl", 
         "type": "literal", 
         "value": "Media gebruikt voor de opslag van content, ontworpen om waarneembaar te zijn met één of meer zintuigen zonder de hulp van een apparaat."
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Media usati per memorizzare contenuti, percepibili direttamente mediante uno o più sensi senza l'ausilio di un dispositivo di intermediazione."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "用于存储通过一种或多种人体感官无需借助中间设备的帮助直接感知的内容媒介。"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medietype anvendt til at lagre indhold, der er beregnet til at blive opfattet direkte via en eller flere menneskelige sanser uden brug af udstyr."
       }
     ]
   }, 
   "http://rdaregistry.info/termList/RDAMediaType/1001": {
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
-        "lang": "ca", 
+        "lang": "nl", 
         "type": "literal", 
-        "value": "Suport usat per emmagatzemar so enregistrat, concebut perquè s'usi amb un aparell de reproducció, com ara un tocadiscs, un reproductor de cassets àudio, un reproductor de CD o un reproductor MP3."
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ âm thanh được ghi, dùng với thiết bị phát lại như là máy quay đĩa, máy phát audiocasset, máy chơi CD, máy chơi MP3."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von aufgenommenem Ton verwendet wird und der für die Benutzung mit einem Wiedergabegerät wie z. B. Plattenspieler, Audiokassetten-Player, CD-Player oder MP3-Player konzipiert ist."
+        "value": "Media gebruikt voor de opslag van geluidsopnames, ontworpen om te gebruiken met een afspeelapparaat zoals een draaitafel, cassettespeler, cd-speler of mp3-speler."
       }, 
       {
         "lang": "da", 
@@ -1282,9 +1272,9 @@
         "value": "A media type used to store recorded sound, designed for use with a playback device such as a turntable, audiocassette player, CD player, or MP3 player."
       }, 
       {
-        "lang": "fr", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "Type de média servant à emmagasiner du son enregistré et conçu pour être utilisé avec un dispositif de lecture tel qu’une platine, un lecteur de cassette audio, un lecteur de CD ou un lecteur MP3."
+        "value": "Media usati per la memorizzazione di suoni registrati, progettati per essere usati con dispositivi per la riproduzione come un giradischi, un lettore per audiocassette, un lettore CD, un lettore MP3."
       }, 
       {
         "lang": "zh", 
@@ -1292,14 +1282,9 @@
         "value": "用于存储录音的媒介，需与唱机、录音机、CD播放器或MP3播放器等播放设备配合使用。"
       }, 
       {
-        "lang": "es", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "Medios utilizados para almacenar registro sonoro, diseñados para usarse en un aparato tal como un tornamesa, audiocasetera, equipo de CD o MP3."
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van geluidsopnames, ontworpen om te gebruiken met een afspeelapparaat zoals een draaitafel, cassettespeler, cd-speler of mp3-speler."
+        "value": "Viestin sisältää tallennettua ääntä, ja se on suunniteltu käytettäväksi soittolaitteella kuten levysoittimella, kasettisoittimella, CD-soittimella, MP3-soittimella."
       }, 
       {
         "lang": "no", 
@@ -1307,26 +1292,36 @@
         "value": "En medietype som brukes til å lagre innspilt lyd, laget for bruk med en avspillingsenhet som platespiller, kassettspiller, CD-spiller eller MP3-spiller."
       }, 
       {
-        "lang": "it", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "Media usati per la memorizzazione di suoni registrati, progettati per essere usati con dispositivi per la riproduzione come un giradischi, un lettore per audiocassette, un lettore CD, un lettore MP3."
+        "value": "Loại phương tiện dùng để lưu giữ âm thanh được ghi, dùng với thiết bị phát lại như là máy quay đĩa, máy phát audiocasset, máy chơi CD, máy chơi MP3."
       }, 
       {
-        "lang": "fi", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "Viestin sisältää tallennettua ääntä, ja se on suunniteltu käytettäväksi soittolaitteella kuten levysoittimella, kasettisoittimella, CD-soittimella, MP3-soittimella."
+        "value": "Medios utilizados para almacenar registro sonoro, diseñados para usarse en un aparato tal como un tornamesa, audiocasetera, equipo de CD o MP3."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner du son enregistré et conçu pour être utilisé avec un dispositif de lecture tel qu’une platine, un lecteur de cassette audio, un lecteur de CD ou un lecteur MP3."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von aufgenommenem Ton verwendet wird und der für die Benutzung mit einem Wiedergabegerät wie z. B. Plattenspieler, Audiokassetten-Player, CD-Player oder MP3-Player konzipiert ist."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar so enregistrat, concebut perquè s'usi amb un aparell de reproducció, com ara un tocadiscs, un reproductor de cassets àudio, un reproductor de CD o un reproductor MP3."
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "lang": "es", 
+        "lang": "no", 
         "type": "literal", 
-        "value": "Incluye medios usados para almacenar tanto sonido codificado digitalmente como sonido análogo."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "包括用于存储数码与模拟声音的媒介。"
+        "value": "Medier som brukes til å lagre både digitalt kodet og analog lyd."
       }, 
       {
         "lang": "de", 
@@ -1334,19 +1329,9 @@
         "value": "Dazu gehören sowohl Medien für die Speicherung von digital kodiertem als auch von analogem Ton."
       }, 
       {
-        "lang": "ca", 
+        "lang": "fr", 
         "type": "literal", 
-        "value": "Inclou els suports usats per emmagatzemar so codificat digitalment i analògicament."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "Media used to store digitally encoded as well as analog sound are included."
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "Käsittää sekä digitaalisesti koodattua että analogisesti tallennettua ääntä sisältävät viestimet."
+        "value": "Comprend les médias servant à emmagasiner du son encodé numériquement aussi bien que du son analogique."
       }, 
       {
         "lang": "it", 
@@ -1354,24 +1339,39 @@
         "value": "Include i media usati per la memorizzazione di suoni codificati sia in forma digitale sia in forma analogica."
       }, 
       {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Käsittää sekä digitaalisesti koodattua että analogisesti tallennettua ääntä sisältävät viestimet."
+      }, 
+      {
         "lang": "da", 
         "type": "literal", 
         "value": "Medier anvendt til lagring af både digitalt kodet og analog lyd er omfattet."
       }, 
       {
-        "lang": "fr", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "Comprend les médias servant à emmagasiner du son encodé numériquement aussi bien que du son analogique."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "Medier som brukes til å lagre både digitalt kodet og analog lyd."
+        "value": "Incluye medios usados para almacenar tanto sonido codificado digitalmente como sonido análogo."
       }, 
       {
         "lang": "vi", 
         "type": "literal", 
         "value": "Các phương tiện dùng để lưu giữ âm thanh được mã hoá kỹ thuật số cũng như tương tự được bao gồm."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Inclou els suports usats per emmagatzemar so codificat digitalment i analògicament."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "包括用于存储数码与模拟声音的媒介。"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Media used to store digitally encoded as well as analog sound are included."
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1400,39 +1400,9 @@
     ], 
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
         "lang": "zh", 
         "type": "literal", 
         "value": "音频"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "àudio"
       }, 
       {
         "lang": "no", 
@@ -1440,17 +1410,17 @@
         "value": "lydmedier"
       }, 
       {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
         "lang": "fr", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "nl", 
         "type": "literal", 
         "value": "audio"
       }, 
@@ -1460,7 +1430,37 @@
         "value": "audio"
       }, 
       {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "àudio"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
         "lang": "de", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "fi", 
         "type": "literal", 
         "value": "audio"
       }
@@ -1472,51 +1472,6 @@
         "value": "audio"
       }, 
       {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "音频"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "lydmedier"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "audio"
-      }, 
-      {
         "lang": "ca", 
         "type": "literal", 
         "value": "àudio"
@@ -1527,7 +1482,52 @@
         "value": "audio"
       }, 
       {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "lydmedier"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
         "lang": "fi", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "音频"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "audio"
+      }, 
+      {
+        "lang": "de", 
         "type": "literal", 
         "value": "audio"
       }
@@ -1539,19 +1539,9 @@
         "value": "Suport usat per emmagatzemar so enregistrat, concebut perquè s'usi amb un aparell de reproducció, com ara un tocadiscs, un reproductor de cassets àudio, un reproductor de CD o un reproductor MP3."
       }, 
       {
-        "lang": "zh", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "用于存储录音的媒介，需与唱机、录音机、CD播放器或MP3播放器等播放设备配合使用。"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medietype anvendt til at lagre optaget/indspillet lyd, skabt til brug med en afspiller såsom en pladespiller, kassettebåndafspiller, CD-afspiller eller MP3-afspiller."
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "Viestin sisältää tallennettua ääntä, ja se on suunniteltu käytettäväksi soittolaitteella kuten levysoittimella, kasettisoittimella, CD-soittimella, MP3-soittimella."
+        "value": "Medios utilizados para almacenar registro sonoro, diseñados para usarse en un aparato tal como un tornamesa, audiocasetera, equipo de CD o MP3."
       }, 
       {
         "lang": "no", 
@@ -1559,9 +1549,9 @@
         "value": "En medietype som brukes til å lagre innspilt lyd, laget for bruk med en avspillingsenhet som platespiller, kassettspiller, CD-spiller eller MP3-spiller."
       }, 
       {
-        "lang": "nl", 
+        "lang": "en", 
         "type": "literal", 
-        "value": "Media gebruikt voor de opslag van geluidsopnames, ontworpen om te gebruiken met een afspeelapparaat zoals een draaitafel, cassettespeler, cd-speler of mp3-speler."
+        "value": "A media type used to store recorded sound, designed for use with a playback device such as a turntable, audiocassette player, CD player, or MP3 player."
       }, 
       {
         "lang": "fr", 
@@ -1569,19 +1559,9 @@
         "value": "Type de média servant à emmagasiner du son enregistré et conçu pour être utilisé avec un dispositif de lecture tel qu’une platine, un lecteur de cassette audio, un lecteur de CD ou un lecteur MP3."
       }, 
       {
-        "lang": "it", 
+        "lang": "da", 
         "type": "literal", 
-        "value": "Media usati per la memorizzazione di suoni registrati, progettati per essere usati con dispositivi per la riproduzione come un giradischi, un lettore per audiocassette, un lettore CD, un lettore MP3."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von aufgenommenem Ton verwendet wird und der für die Benutzung mit einem Wiedergabegerät wie z. B. Plattenspieler, Audiokassetten-Player, CD-Player oder MP3-Player konzipiert ist."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store recorded sound, designed for use with a playback device such as a turntable, audiocassette player, CD player, or MP3 player."
+        "value": "Medietype anvendt til at lagre optaget/indspillet lyd, skabt til brug med en afspiller såsom en pladespiller, kassettebåndafspiller, CD-afspiller eller MP3-afspiller."
       }, 
       {
         "lang": "vi", 
@@ -1589,80 +1569,105 @@
         "value": "Loại phương tiện dùng để lưu giữ âm thanh được ghi, dùng với thiết bị phát lại như là máy quay đĩa, máy phát audiocasset, máy chơi CD, máy chơi MP3."
       }, 
       {
-        "lang": "es", 
+        "lang": "nl", 
         "type": "literal", 
-        "value": "Medios utilizados para almacenar registro sonoro, diseñados para usarse en un aparato tal como un tornamesa, audiocasetera, equipo de CD o MP3."
-      }
-    ]
-  }, 
-  "http://rdaregistry.info/termList/RDAMediaType/1002": {
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện dùng để lưu giữ hình ảnh thu nhỏ không đọc được bằng mắt người, được thiết kế dùng với thiết bị như máy đọc vi phim hoặc vi phiếu."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store reduced-size images not readable to the human eye, designed for use with a device such as a microfilm or microfiche reader."
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "Suport usat per emmagatzemar imatges de mida reduïda no llegibles a l'ull nu, concebut perquè s'usi amb un aparell, com ara un lector de microfilm o de microfitxes."
+        "value": "Media gebruikt voor de opslag van geluidsopnames, ontworpen om te gebruiken met een afspeelapparaat zoals een draaitafel, cassettespeler, cd-speler of mp3-speler."
       }, 
       {
         "lang": "de", 
         "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von verkleinerten Bildern verwendet wird, die für das menschliche Auge nicht lesbar sind und die für die Benutzung mithilfe von Geräten wie z. B. Mikrofilm- oder Mikrofiche-Lesegeräten konzipiert sind."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype brukt til å lagre bilder i redusert størrelse som ikke er lesbar for det menneskelige øye, men må leses ved hjelp av en mikrofilmleser."
+        "value": "Ein Medientyp, der zur Speicherung von aufgenommenem Ton verwendet wird und der für die Benutzung mit einem Wiedergabegerät wie z. B. Plattenspieler, Audiokassetten-Player, CD-Player oder MP3-Player konzipiert ist."
       }, 
       {
         "lang": "zh", 
         "type": "literal", 
-        "value": "用于存储尺寸缩小、非肉眼可读图像的媒介，需与缩微胶卷或缩微平片阅读器等设备配合使用。"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner des images de taille réduite non lisibles à l’œil nu, et conçu pour être utilisé avec un dispositif tel qu’un lecteur de microfilm ou de microfiche."
+        "value": "用于存储录音的媒介，需与唱机、录音机、CD播放器或MP3播放器等播放设备配合使用。"
       }, 
       {
         "lang": "fi", 
         "type": "literal", 
-        "value": "Viestin sisältää pienennettyjä kuvia jotka eivät ole luettavissa ilman apuvälinettä. Mikrofilmit tai mikrokortit ovat suunniteltu käytettäväksi lukulaitteen avulla."
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van verkleinde afbeeldingen die niet leesbaar zijn met het menselijk oog, ontworpen om te gebruiken met een apparaat zoals een microfilm- of een microfichelezer."
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar imágenes de tamaños reducidos no legibles por el ojo humano, diseñados para ser usados con aparatos tales como lectores de micropelícula o microficha."
+        "value": "Viestin sisältää tallennettua ääntä, ja se on suunniteltu käytettäväksi soittolaitteella kuten levysoittimella, kasettisoittimella, CD-soittimella, MP3-soittimella."
       }, 
       {
         "lang": "it", 
         "type": "literal", 
-        "value": "Media usati per memorizzare immagini di dimensioni ridotte, illeggibili per l'occhio umano, progettati per essere usati tramite un dispositivo come un lettore di microfilm o microfiche."
+        "value": "Media usati per la memorizzazione di suoni registrati, progettati per essere usati con dispositivi per la riproduzione come un giradischi, un lettore per audiocassette, un lettore CD, un lettore MP3."
+      }
+    ]
+  }, 
+  "http://rdaregistry.info/termList/RDAMediaType/1002": {
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "vi dạng"
       }, 
       {
         "lang": "da", 
         "type": "literal", 
-        "value": "Medietype til lagring af billeder i reduceret størrelse, der ikke kan læses med det blotte øje, skabt til brug via fx mikrofilm- eller mikrofichelæser."
+        "value": "mikroform"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Mikroform"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "microvorm"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "mikroform"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "microform"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "mikroform"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "microforme"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "mikromuoto"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "microformas"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "microforma"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "缩微"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "microforma"
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
-        "lang": "ca", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "Inclou els suports microgràfics transparents i els opacs."
+        "value": "Cả phương tiện vi đồ hoạ trong suốt và cản quang đều được bao gồm."
       }, 
       {
         "lang": "zh", 
@@ -1680,9 +1685,14 @@
         "value": "Comprend les deux médias microphotographiques, transparent et opaque."
       }, 
       {
-        "lang": "it", 
+        "lang": "no", 
         "type": "literal", 
-        "value": "Include i media micrografici trasparenti e opachi."
+        "value": "Både transparenter og mikro-opak er inkludert."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Dazu gehören sowohl transparente als auch lichtundurchlässige, mikrografische Medien."
       }, 
       {
         "lang": "es", 
@@ -1690,29 +1700,24 @@
         "value": "Incluye tanto medios micrográficos transparentes como opacos."
       }, 
       {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Inclou els suports microgràfics transparents i els opacs."
+      }, 
+      {
         "lang": "da", 
         "type": "literal", 
         "value": "Både gennemsigtige og uigennemsigtige mikrografiske medier er omfattet."
       }, 
       {
-        "lang": "no", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "Både transparenter og mikro-opak er inkludert."
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Cả phương tiện vi đồ hoạ trong suốt và cản quang đều được bao gồm."
+        "value": "Include i media micrografici trasparenti e opachi."
       }, 
       {
         "lang": "fi", 
         "type": "literal", 
         "value": "Käsittää sekä läpinäkyvän että läpinäkymättömän mikromuotoisen viestimen."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Dazu gehören sowohl transparente als auch lichtundurchlässige, mikrografische Medien."
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -1739,180 +1744,16 @@
         "value": "http://www.w3.org/2004/02/skos/core#Concept"
       }
     ], 
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "mikroform"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Mikroform"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "vi dạng"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "缩微"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "microvorm"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "mikromuoto"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "microforma"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "mikroform"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "microforme"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "microformas"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "microform"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "microforma"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "mikroform"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "microforma"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "microforme"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "vi dạng"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "缩微"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "microformas"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "microvorm"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "microform"
-      }, 
-      {
-        "lang": "sv", 
-        "type": "literal", 
-        "value": "mikroform"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "mikroform"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "mikroform"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Mikroform"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "mikromuoto"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "microforma"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar imágenes de tamaños reducidos no legibles por el ojo humano, diseñados para ser usados con aparatos tales como lectores de micropelícula o microficha."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von verkleinerten Bildern verwendet wird, die für das menschliche Auge nicht lesbar sind und die für die Benutzung mithilfe von Geräten wie z. B. Mikrofilm- oder Mikrofiche-Lesegeräten konzipiert sind."
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "Suport usat per emmagatzemar imatges de mida reduïda no llegibles a l'ull nu, concebut perquè s'usi amb un aparell, com ara un lector de microfilm o de microfitxes."
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner des images de taille réduite non lisibles à l’œil nu, et conçu pour être utilisé avec un dispositif tel qu’un lecteur de microfilm ou de microfiche."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype brukt til å lagre bilder i redusert størrelse som ikke er lesbar for det menneskelige øye, men må leses ved hjelp av en mikrofilmleser."
-      }, 
+    "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "lang": "da", 
         "type": "literal", 
         "value": "Medietype til lagring af billeder i reduceret størrelse, der ikke kan læses med det blotte øje, skabt til brug via fx mikrofilm- eller mikrofichelæser."
       }, 
       {
-        "lang": "it", 
+        "lang": "en", 
         "type": "literal", 
-        "value": "Media usati per memorizzare immagini di dimensioni ridotte, illeggibili per l'occhio umano, progettati per essere usati tramite un dispositivo come un lettore di microfilm o microfiche."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储尺寸缩小、非肉眼可读图像的媒介，需与缩微胶卷或缩微平片阅读器等设备配合使用。"
+        "value": "A media type used to store reduced-size images not readable to the human eye, designed for use with a device such as a microfilm or microfiche reader."
       }, 
       {
         "lang": "fi", 
@@ -1925,115 +1766,249 @@
         "value": "Media gebruikt voor de opslag van verkleinde afbeeldingen die niet leesbaar zijn met het menselijk oog, ontworpen om te gebruiken met een apparaat zoals een microfilm- of een microfichelezer."
       }, 
       {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Media usati per memorizzare immagini di dimensioni ridotte, illeggibili per l'occhio umano, progettati per essere usati tramite un dispositivo come un lettore di microfilm o microfiche."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von verkleinerten Bildern verwendet wird, die für das menschliche Auge nicht lesbar sind und die für die Benutzung mithilfe von Geräten wie z. B. Mikrofilm- oder Mikrofiche-Lesegeräten konzipiert sind."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "用于存储尺寸缩小、非肉眼可读图像的媒介，需与缩微胶卷或缩微平片阅读器等设备配合使用。"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype brukt til å lagre bilder i redusert størrelse som ikke er lesbar for det menneskelige øye, men må leses ved hjelp av en mikrofilmleser."
+      }, 
+      {
         "lang": "vi", 
         "type": "literal", 
         "value": "Loại phương tiện dùng để lưu giữ hình ảnh thu nhỏ không đọc được bằng mắt người, được thiết kế dùng với thiết bị như máy đọc vi phim hoặc vi phiếu."
       }, 
       {
-        "lang": "en", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "A media type used to store reduced-size images not readable to the human eye, designed for use with a device such as a microfilm or microfiche reader."
-      }
-    ]
-  }, 
-  "http://rdaregistry.info/termList/RDAMediaType/1003": {
-    "http://www.w3.org/2004/02/skos/core#definition": [
+        "value": "Medios utilizados para almacenar imágenes de tamaños reducidos no legibles por el ojo humano, diseñados para ser usados con aparatos tales como lectores de micropelícula o microficha."
+      }, 
       {
         "lang": "fr", 
         "type": "literal", 
-        "value": "Type de média servant à emmagasiner des fichiers électroniques et conçu pour être utilisé avec un ordinateur."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储电子文件的媒介，需与计算机配合使用。"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện sử dụng để lưu giữ các tệp điện tử được thiết kế để dùng với máy tính."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype brukt til å lagre elektroniske filer ment for å brukes sammen med en datamaskin."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store electronic files, designed for use with a computer."
+        "value": "Type de média servant à emmagasiner des images de taille réduite non lisibles à l’œil nu, et conçu pour être utilisé avec un dispositif tel qu’un lecteur de microfilm ou de microfiche."
       }, 
       {
         "lang": "ca", 
         "type": "literal", 
-        "value": "Suport usat per emmagatzemar fitxers electrònics, concebut perquè s'usi amb un ordinador."
+        "value": "Suport usat per emmagatzemar imatges de mida reduïda no llegibles a l'ull nu, concebut perquè s'usi amb un aparell, com ara un lector de microfilm o de microfitxes."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "mikroform"
       }, 
       {
-        "lang": "fi", 
+        "lang": "sv", 
         "type": "literal", 
-        "value": "Viestin sisältää elektronisia tiedostoja ja on tarkoitettu käytettäväksi tietokoneella."
+        "value": "mikroform"
       }, 
       {
-        "lang": "de", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von elektronischen Dateien verwendet wird, die für die Computeranwendung konzipiert sind."
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Medios utilizados para almacenar archivos electrónicos, diseñados para usarse con una computadora."
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "Media usati per registrare file elettronici, progettati per essere usati con un computer."
+        "value": "缩微"
       }, 
       {
         "lang": "da", 
         "type": "literal", 
-        "value": "Medietype anvendt til at lagre elektroniske filer, der er skabt til at blive brugt på en computer."
+        "value": "mikroform"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Mikroform"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "microforma"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "vi dạng"
       }, 
       {
         "lang": "nl", 
         "type": "literal", 
-        "value": "Media gebruikt voor de opslag van elektronische bestanden, ontworpen om te gebruiken met een computer."
-      }
-    ], 
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "Käsittää sekä tiedostopalvelimien kautta käytettävät etäkäyttöiset viestimet että suorakäyttöiset viestimet kuten tietokonenauhat ja -levyt."
+        "value": "microvorm"
       }, 
       {
-        "lang": "da", 
+        "lang": "fr", 
         "type": "literal", 
-        "value": "Både medier, der tilgås via fjernadgang og medier der tilgås via direkte adgang er omfattet."
+        "value": "microforme"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "microformas"
       }, 
       {
         "lang": "it", 
         "type": "literal", 
-        "value": "Include media ad accesso remoto mediante un server e media ad accesso diretto come nastri e dischi per computer."
+        "value": "microforma"
       }, 
       {
-        "lang": "zh", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "包括诸如磁带和光盘这样的直接访问媒介，也包括通过文件服务器远程访问的媒介。"
+        "value": "mikromuoto"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "microform"
+      }
+    ], 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store reduced-size images not readable to the human eye, designed for use with a device such as a microfilm or microfiche reader."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner des images de taille réduite non lisibles à l’œil nu, et conçu pour être utilisé avec un dispositif tel qu’un lecteur de microfilm ou de microfiche."
       }, 
       {
         "lang": "ca", 
         "type": "literal", 
-        "value": "Inclou els suports als quals s’accedeix remotament per mitjà de servidors de fitxers, així com suports d'accés directe, com ara cintes i discs d'ordinador."
+        "value": "Suport usat per emmagatzemar imatges de mida reduïda no llegibles a l'ull nu, concebut perquè s'usi amb un aparell, com ara un lector de microfilm o de microfitxes."
       }, 
       {
-        "lang": "de", 
+        "lang": "nl", 
         "type": "literal", 
-        "value": "Dazu gehören sowohl Medien, die per Fernzugriff über Dateiserver aufgerufen werden, als auch Medien im Direktzugriff, wie zum Beispiel Combuterbänder und Disks."
+        "value": "Media gebruikt voor de opslag van verkleinde afbeeldingen die niet leesbaar zijn met het menselijk oog, ontworpen om te gebruiken met een apparaat zoals een microfilm- of een microfichelezer."
       }, 
       {
         "lang": "vi", 
         "type": "literal", 
-        "value": "Các phương tiện được truy cập từ xa qua máy chủ tệp cũng như truy cập trực tiếp như băng và đĩa máy tính được bao gồm."
+        "value": "Loại phương tiện dùng để lưu giữ hình ảnh thu nhỏ không đọc được bằng mắt người, được thiết kế dùng với thiết bị như máy đọc vi phim hoặc vi phiếu."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von verkleinerten Bildern verwendet wird, die für das menschliche Auge nicht lesbar sind und die für die Benutzung mithilfe von Geräten wie z. B. Mikrofilm- oder Mikrofiche-Lesegeräten konzipiert sind."
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype brukt til å lagre bilder i redusert størrelse som ikke er lesbar for det menneskelige øye, men må leses ved hjelp av en mikrofilmleser."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "用于存储尺寸缩小、非肉眼可读图像的媒介，需与缩微胶卷或缩微平片阅读器等设备配合使用。"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "Medios utilizados para almacenar imágenes de tamaños reducidos no legibles por el ojo humano, diseñados para ser usados con aparatos tales como lectores de micropelícula o microficha."
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Viestin sisältää pienennettyjä kuvia jotka eivät ole luettavissa ilman apuvälinettä. Mikrofilmit tai mikrokortit ovat suunniteltu käytettäväksi lukulaitteen avulla."
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Media usati per memorizzare immagini di dimensioni ridotte, illeggibili per l'occhio umano, progettati per essere usati tramite un dispositivo come un lettore di microfilm o microfiche."
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medietype til lagring af billeder i reduceret størrelse, der ikke kan læses med det blotte øje, skabt til brug via fx mikrofilm- eller mikrofichelæser."
+      }
+    ]
+  }, 
+  "http://rdaregistry.info/termList/RDAMediaType/1003": {
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "dator"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "máy tính"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "computer"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "computer"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "datamaskin"
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "informàtic"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "elettronico"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "computer"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "computadora"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "tietokonekäyttöinen"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Computermedien"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "计算机"
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "informatique"
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Dazu gehören sowohl Medien, die per Fernzugriff über Dateiserver aufgerufen werden, als auch Medien im Direktzugriff, wie zum Beispiel Combuterbänder und Disks."
       }, 
       {
         "lang": "no", 
@@ -2041,14 +2016,44 @@
         "value": "Medier som nås med fjerntilgang gjennom filtjenere, og medier med direkte tilgang som databånd og magnetplater er inkludert."
       }, 
       {
-        "lang": "en", 
+        "lang": "da", 
         "type": "literal", 
-        "value": "Media that are accessed remotely through file servers as well as direct-access media such as computer tapes and discs are included."
+        "value": "Både medier, der tilgås via fjernadgang og medier der tilgås via direkte adgang er omfattet."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "包括诸如磁带和光盘这样的直接访问媒介，也包括通过文件服务器远程访问的媒介。"
       }, 
       {
         "lang": "fr", 
         "type": "literal", 
         "value": "Comprend les médias accessibles à distance par serveur aussi bien que les médias en accès direct tels que des bandes et des disques informatiques."
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "Käsittää sekä tiedostopalvelimien kautta käytettävät etäkäyttöiset viestimet että suorakäyttöiset viestimet kuten tietokonenauhat ja -levyt."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "Media that are accessed remotely through file servers as well as direct-access media such as computer tapes and discs are included."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Inclou els suports als quals s’accedeix remotament per mitjà de servidors de fitxers, així com suports d'accés directe, com ara cintes i discs d'ordinador."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Các phương tiện được truy cập từ xa qua máy chủ tệp cũng như truy cập trực tiếp như băng và đĩa máy tính được bao gồm."
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Include media ad accesso remoto mediante un server e media ad accesso diretto come nastri e dischi per computer."
       }, 
       {
         "lang": "es", 
@@ -2080,118 +2085,73 @@
         "value": "http://www.w3.org/2004/02/skos/core#Concept"
       }
     ], 
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+    "http://www.w3.org/2004/02/skos/core#definition": [
       {
-        "lang": "sv", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "dator"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "computer"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "computadora"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "计算机"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "computer"
+        "value": "Loại phương tiện sử dụng để lưu giữ các tệp điện tử được thiết kế để dùng với máy tính."
       }, 
       {
         "lang": "da", 
         "type": "literal", 
-        "value": "computer"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "tietokonekäyttöinen"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "informàtic"
+        "value": "Medietype anvendt til at lagre elektroniske filer, der er skabt til at blive brugt på en computer."
       }, 
       {
         "lang": "it", 
         "type": "literal", 
-        "value": "elettronico"
+        "value": "Media usati per registrare file elettronici, progettati per essere usati con un computer."
       }, 
       {
         "lang": "fr", 
         "type": "literal", 
-        "value": "informatique"
+        "value": "Type de média servant à emmagasiner des fichiers électroniques et conçu pour être utilisé avec un ordinateur."
       }, 
       {
-        "lang": "no", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "datamaskin"
+        "value": "用于存储电子文件的媒介，需与计算机配合使用。"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store electronic files, designed for use with a computer."
       }, 
       {
         "lang": "de", 
         "type": "literal", 
-        "value": "Computermedien"
+        "value": "Ein Medientyp, der zur Speicherung von elektronischen Dateien verwendet wird, die für die Computeranwendung konzipiert sind."
       }, 
       {
-        "lang": "vi", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "máy tính"
+        "value": "Viestin sisältää elektronisia tiedostoja ja on tarkoitettu käytettäväksi tietokoneella."
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype brukt til å lagre elektroniske filer ment for å brukes sammen med en datamaskin."
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "Medios utilizados para almacenar archivos electrónicos, diseñados para usarse con una computadora."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar fitxers electrònics, concebut perquè s'usi amb un ordinador."
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "Media gebruikt voor de opslag van elektronische bestanden, ontworpen om te gebruiken met een computer."
       }
     ], 
     "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
       {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "datamaskin"
-      }, 
-      {
-        "lang": "fi", 
-        "type": "literal", 
-        "value": "tietokonekäyttöinen"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Computermedien"
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "máy tính"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "computer"
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "informatique"
-      }, 
-      {
         "lang": "zh", 
         "type": "literal", 
         "value": "计算机"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "elettronico"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "computer"
       }, 
       {
         "lang": "sv", 
@@ -2199,9 +2159,34 @@
         "value": "dator"
       }, 
       {
-        "lang": "nl", 
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "informatique"
+      }, 
+      {
+        "lang": "en", 
         "type": "literal", 
         "value": "computer"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Computermedien"
+      }, 
+      {
+        "lang": "fi", 
+        "type": "literal", 
+        "value": "tietokonekäyttöinen"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "computer"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "elettronico"
       }, 
       {
         "lang": "es", 
@@ -2209,9 +2194,24 @@
         "value": "computadora"
       }, 
       {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "máy tính"
+      }, 
+      {
         "lang": "ca", 
         "type": "literal", 
         "value": "informàtic"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "datamaskin"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "computer"
       }
     ], 
     "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
@@ -2226,14 +2226,29 @@
         "value": "Media usati per registrare file elettronici, progettati per essere usati con un computer."
       }, 
       {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar fitxers electrònics, concebut perquè s'usi amb un ordinador."
+      }, 
+      {
         "lang": "zh", 
         "type": "literal", 
         "value": "用于存储电子文件的媒介，需与计算机配合使用。"
       }, 
       {
-        "lang": "fi", 
+        "lang": "fr", 
         "type": "literal", 
-        "value": "Viestin sisältää elektronisia tiedostoja ja on tarkoitettu käytettäväksi tietokoneella."
+        "value": "Type de média servant à emmagasiner des fichiers électroniques et conçu pour être utilisé avec un ordinateur."
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "En medietype brukt til å lagre elektroniske filer ment for å brukes sammen med en datamaskin."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện sử dụng để lưu giữ các tệp điện tử được thiết kế để dùng với máy tính."
       }, 
       {
         "lang": "nl", 
@@ -2251,100 +2266,105 @@
         "value": "Medietype anvendt til at lagre elektroniske filer, der er skabt til at blive brugt på en computer."
       }, 
       {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện sử dụng để lưu giữ các tệp điện tử được thiết kế để dùng với máy tính."
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner des fichiers électroniques et conçu pour être utilisé avec un ordinateur."
-      }, 
-      {
         "lang": "en", 
         "type": "literal", 
         "value": "A media type used to store electronic files, designed for use with a computer."
       }, 
       {
-        "lang": "ca", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "Suport usat per emmagatzemar fitxers electrònics, concebut perquè s'usi amb un ordinador."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype brukt til å lagre elektroniske filer ment for å brukes sammen med en datamaskin."
+        "value": "Viestin sisältää elektronisia tiedostoja ja on tarkoitettu käytettäväksi tietokoneella."
       }
     ]
   }, 
   "http://rdaregistry.info/termList/RDAMediaType/1008": {
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een afspeelapparaat zoals een videocassettespeler of een dvd-speler."
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện sử dụng để chứa hình ảnh tĩnh và động, được thiết kế dùng với thiết bị phát lại như máy phát videocaset hoặc máy phát DVD."
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "Media usati per memorizzare immagini fisse e in movimento, progettati per essere usati con un dispositivo di riproduzione come un lettore di videocassette o un lettore DVD."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, und die für die Benutzung mit einem Wiedergabegerät wie zum Beispiel einem Videokassetten- oder DVD-Player konzipiert sind."
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en afspiller fx en videobåndafspiller eller en dvd-afspiller."
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store moving or still images, designed for use with a playback device such as a videocassette player or DVD player."
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en avspillingsenhet som videospiller eller DVD-spiller."
-      }, 
+    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
       {
         "lang": "fi", 
         "type": "literal", 
-        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on suunniteltu käytettäväksi toistolaitteen, kuten videokasettinauhurin tai DVD-soittimen avulla."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储动态或静态图像的媒介，需与录像带播放机或DVD播放机等播放设备配合使用。"
+        "value": "video"
       }, 
       {
         "lang": "ca", 
         "type": "literal", 
-        "value": "Suport usat per emmagatzemar imatges en moviment o fixes, concebut perquè s'usi amb un aparell reproductor, com ara un reproductor de videocassets o un reproductor de DVD."
+        "value": "vídeo"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "video"
       }, 
       {
         "lang": "es", 
         "type": "literal", 
-        "value": "Medios utilizados para almacenar imágenes fijas o en movimiento, diseñados para usarse con aparatos de reproducción tales como videocaseteras o lectores de DVD."
+        "value": "video"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "sv", 
+        "type": "literal", 
+        "value": "video"
       }, 
       {
         "lang": "fr", 
         "type": "literal", 
-        "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de lecture tel qu’un lecteur de cassette vidéo ou de DVD."
+        "value": "vidéo"
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "视频"
+      }, 
+      {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "video"
       }
     ], 
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Inclou suports usats per emmagatzemar imatges codificades digitalment així com imatges analògiques."
+      }, 
+      {
         "lang": "de", 
         "type": "literal", 
         "value": "Dazu gehören sowohl Medien für die Speicherung von digital kodierten als auch von analogen Bildern."
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "Incluye medios usados para almacenar tanto imágenes codificadas digitalmente como imágenes análogas."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "包括用于存储数码或模拟图像的媒介。"
       }, 
       {
         "lang": "en", 
@@ -2362,9 +2382,9 @@
         "value": "Medier som brukes til å lagre både digitalt kodede og analoge bilder, er inkludert."
       }, 
       {
-        "lang": "ca", 
+        "lang": "vi", 
         "type": "literal", 
-        "value": "Inclou suports usats per emmagatzemar imatges codificades digitalment així com imatges analògiques."
+        "value": "Các phương tiện được dùng để lưu giữ hình ảnh mã hoá kỹ thuật số cũng như tương tự được bao gồm."
       }, 
       {
         "lang": "it", 
@@ -2375,21 +2395,6 @@
         "lang": "fi", 
         "type": "literal", 
         "value": "Käsittää sekä digitaalisesti koodattua että analogista kuvaa sisältävät viestimet."
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Các phương tiện được dùng để lưu giữ hình ảnh mã hoá kỹ thuật số cũng như tương tự được bao gồm."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "包括用于存储数码或模拟图像的媒介。"
-      }, 
-      {
-        "lang": "es", 
-        "type": "literal", 
-        "value": "Incluye medios usados para almacenar tanto imágenes codificadas digitalmente como imágenes análogas."
       }, 
       {
         "lang": "fr", 
@@ -2421,49 +2426,71 @@
         "value": "http://www.w3.org/2004/02/skos/core#Concept"
       }
     ], 
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+    "http://www.w3.org/2004/02/skos/core#definition": [
       {
-        "lang": "es", 
+        "lang": "nl", 
         "type": "literal", 
-        "value": "video"
+        "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een afspeelapparaat zoals een videocassettespeler of een dvd-speler."
       }, 
       {
-        "lang": "vi", 
+        "lang": "da", 
         "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "ca", 
-        "type": "literal", 
-        "value": "vídeo"
+        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en afspiller fx en videobåndafspiller eller en dvd-afspiller."
       }, 
       {
         "lang": "it", 
         "type": "literal", 
-        "value": "video"
+        "value": "Media usati per memorizzare immagini fisse e in movimento, progettati per essere usati con un dispositivo di riproduzione come un lettore di videocassette o un lettore DVD."
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện sử dụng để chứa hình ảnh tĩnh và động, được thiết kế dùng với thiết bị phát lại như máy phát videocaset hoặc máy phát DVD."
       }, 
       {
         "lang": "no", 
         "type": "literal", 
-        "value": "video"
+        "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en avspillingsenhet som videospiller eller DVD-spiller."
       }, 
       {
-        "lang": "sv", 
+        "lang": "zh", 
         "type": "literal", 
-        "value": "video"
+        "value": "用于存储动态或静态图像的媒介，需与录像带播放机或DVD播放机等播放设备配合使用。"
       }, 
       {
-        "lang": "nl", 
+        "lang": "es", 
         "type": "literal", 
-        "value": "video"
+        "value": "Medios utilizados para almacenar imágenes fijas o en movimiento, diseñados para usarse con aparatos de reproducción tales como videocaseteras o lectores de DVD."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store moving or still images, designed for use with a playback device such as a videocassette player or DVD player."
+      }, 
+      {
+        "lang": "ca", 
+        "type": "literal", 
+        "value": "Suport usat per emmagatzemar imatges en moviment o fixes, concebut perquè s'usi amb un aparell reproductor, com ara un reproductor de videocassets o un reproductor de DVD."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, und die für die Benutzung mit einem Wiedergabegerät wie zum Beispiel einem Videokassetten- oder DVD-Player konzipiert sind."
+      }, 
+      {
+        "lang": "fr", 
+        "type": "literal", 
+        "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de lecture tel qu’un lecteur de cassette vidéo ou de DVD."
       }, 
       {
         "lang": "fi", 
         "type": "literal", 
-        "value": "video"
-      }, 
+        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on suunniteltu käytettäväksi toistolaitteen, kuten videokasettinauhurin tai DVD-soittimen avulla."
+      }
+    ], 
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
-        "lang": "en", 
+        "lang": "sv", 
         "type": "literal", 
         "value": "video"
       }, 
@@ -2473,44 +2500,7 @@
         "value": "video"
       }, 
       {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "vidéo"
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "视频"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "video"
-      }
-    ], 
-    "http://metadataregistry.org/uri/profile/rdakit/toolkitLabel": [
-      {
         "lang": "vi", 
-        "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "no", 
-        "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "sv", 
         "type": "literal", 
         "value": "video"
       }, 
@@ -2520,9 +2510,29 @@
         "value": "video"
       }, 
       {
-        "lang": "fr", 
+        "lang": "it", 
         "type": "literal", 
-        "value": "vidéo"
+        "value": "video"
+      }, 
+      {
+        "lang": "es", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "no", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "video"
+      }, 
+      {
+        "lang": "nl", 
+        "type": "literal", 
+        "value": "video"
       }, 
       {
         "lang": "zh", 
@@ -2535,19 +2545,9 @@
         "value": "vídeo"
       }, 
       {
-        "lang": "es", 
+        "lang": "fr", 
         "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "nl", 
-        "type": "literal", 
-        "value": "video"
-      }, 
-      {
-        "lang": "da", 
-        "type": "literal", 
-        "value": "video"
+        "value": "vidéo"
       }, 
       {
         "lang": "fi", 
@@ -2557,14 +2557,34 @@
     ], 
     "http://metadataregistry.org/uri/profile/rdakit/toolkitDefinition": [
       {
+        "lang": "it", 
+        "type": "literal", 
+        "value": "Media usati per memorizzare immagini fisse e in movimento, progettati per essere usati con un dispositivo di riproduzione come un lettore di videocassette o un lettore DVD."
+      }, 
+      {
+        "lang": "zh", 
+        "type": "literal", 
+        "value": "用于存储动态或静态图像的媒介，需与录像带播放机或DVD播放机等播放设备配合使用。"
+      }, 
+      {
+        "lang": "vi", 
+        "type": "literal", 
+        "value": "Loại phương tiện sử dụng để chứa hình ảnh tĩnh và động, được thiết kế dùng với thiết bị phát lại như máy phát videocaset hoặc máy phát DVD."
+      }, 
+      {
+        "lang": "de", 
+        "type": "literal", 
+        "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, und die für die Benutzung mit einem Wiedergabegerät wie zum Beispiel einem Videokassetten- oder DVD-Player konzipiert sind."
+      }, 
+      {
+        "lang": "da", 
+        "type": "literal", 
+        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en afspiller fx en videobåndafspiller eller en dvd-afspiller."
+      }, 
+      {
         "lang": "nl", 
         "type": "literal", 
         "value": "Media gebruikt voor de opslag van bewegende of stilstaande beelden, ontworpen om te gebruiken met een afspeelapparaat zoals een videocassettespeler of een dvd-speler."
-      }, 
-      {
-        "lang": "fr", 
-        "type": "literal", 
-        "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de lecture tel qu’un lecteur de cassette vidéo ou de DVD."
       }, 
       {
         "lang": "ca", 
@@ -2572,9 +2592,14 @@
         "value": "Suport usat per emmagatzemar imatges en moviment o fixes, concebut perquè s'usi amb un aparell reproductor, com ara un reproductor de videocassets o un reproductor de DVD."
       }, 
       {
-        "lang": "da", 
+        "lang": "fi", 
         "type": "literal", 
-        "value": "Medietype anvendt til at lagre levende eller faste billeder, skabt til brug med en afspiller fx en videobåndafspiller eller en dvd-afspiller."
+        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on suunniteltu käytettäväksi toistolaitteen, kuten videokasettinauhurin tai DVD-soittimen avulla."
+      }, 
+      {
+        "lang": "en", 
+        "type": "literal", 
+        "value": "A media type used to store moving or still images, designed for use with a playback device such as a videocassette player or DVD player."
       }, 
       {
         "lang": "es", 
@@ -2587,34 +2612,9 @@
         "value": "En medietype som brukes til å lagre levende bilder eller stillbilder, laget for bruk med en avspillingsenhet som videospiller eller DVD-spiller."
       }, 
       {
-        "lang": "fi", 
+        "lang": "fr", 
         "type": "literal", 
-        "value": "Viestin sisältää liikkuvaa kuvaa tai stillkuvia ja on suunniteltu käytettäväksi toistolaitteen, kuten videokasettinauhurin tai DVD-soittimen avulla."
-      }, 
-      {
-        "lang": "zh", 
-        "type": "literal", 
-        "value": "用于存储动态或静态图像的媒介，需与录像带播放机或DVD播放机等播放设备配合使用。"
-      }, 
-      {
-        "lang": "en", 
-        "type": "literal", 
-        "value": "A media type used to store moving or still images, designed for use with a playback device such as a videocassette player or DVD player."
-      }, 
-      {
-        "lang": "de", 
-        "type": "literal", 
-        "value": "Ein Medientyp, der zur Speicherung von bewegten oder unbewegten Bildern verwendet wird, und die für die Benutzung mit einem Wiedergabegerät wie zum Beispiel einem Videokassetten- oder DVD-Player konzipiert sind."
-      }, 
-      {
-        "lang": "it", 
-        "type": "literal", 
-        "value": "Media usati per memorizzare immagini fisse e in movimento, progettati per essere usati con un dispositivo di riproduzione come un lettore di videocassette o un lettore DVD."
-      }, 
-      {
-        "lang": "vi", 
-        "type": "literal", 
-        "value": "Loại phương tiện sử dụng để chứa hình ảnh tĩnh và động, được thiết kế dùng với thiết bị phát lại như máy phát videocaset hoặc máy phát DVD."
+        "value": "Type de média servant à emmagasiner des images animées ou fixes et conçu pour être utilisé avec un dispositif de lecture tel qu’un lecteur de cassette vidéo ou de DVD."
       }
     ]
   }, 
